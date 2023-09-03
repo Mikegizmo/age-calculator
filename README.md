@@ -1,4 +1,4 @@
-# age-calculator
+# Age Calculator
 
 Project design inspired by the book "Four Thousand Weeks: Time Management for Mortals" by Oliver Burkeman.
 
